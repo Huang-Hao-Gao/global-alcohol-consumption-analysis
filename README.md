@@ -28,10 +28,10 @@ The analysis aims to answer the following key strategic questions:
 
 - **Source:** [WHO Global Alcohol Consumption Dataset (Kaggle)](https://www.kaggle.com/datasets/ibrahimqasimi/global-alcohol-consumption-who-20002022)
 - **Time Period:** 2000-2022 (23 years of annual data)
-- **Geographic Scope:** 196+ countries across all continents
+- **Geographic Scope:** 188 countries across all continents
 - **Format:** CSV
 
-The dataset was validated for completeness and accuracy before analysis. Data quality checks confirmed zero missing values, no negative consumption records, and valid year ranges across all 4,508 country-year observations.
+The dataset was validated for completeness and accuracy before analysis. Data quality checks confirmed zero missing values, no negative consumption records, and valid year ranges across all 4,324 country-year observations.
 
 ---
 
