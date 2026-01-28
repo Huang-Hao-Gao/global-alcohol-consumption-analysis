@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyses global alcohol consumption patterns across 196+ countries over a 23-year period (2000-2022) to identify optimal markets for international beverage expansion. 
+This project analyses global alcohol consumption patterns across 188 countries over a 23-year period (2000-2022) to identify optimal markets for international beverage expansion. 
 
 **Business Context:** This analysis was conducted as a personal project simulating a strategic market entry study for an international alcohol beverage company. The hypothetical stakeholder is the Head of Market Expansion, tasked with identifying which countries to prioritise for market entry, deeper investment, or deprioritisation.
 
